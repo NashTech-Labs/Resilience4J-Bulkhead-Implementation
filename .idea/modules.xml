@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-Resilience4J-Bulkhead-Implementation/Item/Item.iml" filepath="$PROJECT_DIR$/Spring-Boot-Resilience4J-Bulkhead-Implementation/Item/Item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Resilience4J-Bulkhead-Implementation.iml" filepath="$PROJECT_DIR$/.idea/Resilience4J-Bulkhead-Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-Resilience4J-Bulkhead-Implementation/sdk-bulkhead/sdk-bulkhead.iml" filepath="$PROJECT_DIR$/Spring-Boot-Resilience4J-Bulkhead-Implementation/sdk-bulkhead/sdk-bulkhead.iml" />
+    </modules>
+  </component>
+</project>
